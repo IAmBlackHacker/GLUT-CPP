@@ -8,7 +8,7 @@
   - winmm
   - gdi32
  
-[[https://drive.google.com/file/d/0ByY8Gtn1bAVlclMySHI3cFA2OTA/view]]
+![Alt text](https://github.com/IAmBlackHacker/GLUT-CPP/blob/master/Capture.PNG?raw=true "Optional Title")
 ### 3. Don't forgot to add #include<windows.h> in your test.cpp file
 ~~~
 Download test.cpp and run it for successful setup
