@@ -23,3 +23,5 @@ Download test.cpp and run it for successful setup
 ![setup](http://wiki.codeblocks.org/images/7/75/Freeglut_6.jpg?raw=true "Title")
 ![setup](http://wiki.codeblocks.org/images/6/6b/Freeglut_7.jpg?raw=true "Title")
 ![setup](http://wiki.codeblocks.org/images/e/e3/Freeglut_2.jpg?raw=true "Title")
+
+### Don't forgot to add #include<windows.h> in your test.cpp file
