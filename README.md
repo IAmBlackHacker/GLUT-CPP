@@ -8,8 +8,18 @@
   - winmm
   - gdi32
  
-![Alt text](https://github.com/IAmBlackHacker/GLUT-CPP/blob/master/Capture.PNG?raw=true "Optional Title")
+![Linker setup](https://github.com/IAmBlackHacker/GLUT-CPP/blob/master/Capture.PNG?raw=true "Linker Setup")
 ### 3. Don't forgot to add #include<windows.h> in your test.cpp file
 ~~~
 Download test.cpp and run it for successful setup
 ~~~
+
+# Alternate
+### If you are using codeblock new version then goto *New->project* and select new project
+### then enter Project Title
+![setup](http://wiki.codeblocks.org/images/9/9a/Freeglut_3.jpg?raw=true "Title")
+![setup](http://wiki.codeblocks.org/images/f/f0/Freeglut_4.jpg?raw=true "Title")
+![setup](http://wiki.codeblocks.org/images/1/1c/Freeglut_5.jpg?raw=true "Title")
+![setup](http://wiki.codeblocks.org/images/7/75/Freeglut_6.jpg?raw=true "Title")
+![setup](http://wiki.codeblocks.org/images/6/6b/Freeglut_7.jpg?raw=true "Title")
+![setup](http://wiki.codeblocks.org/images/e/e3/Freeglut_2.jpg?raw=true "Title")
