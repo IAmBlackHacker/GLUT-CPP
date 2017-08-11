@@ -1,4 +1,7 @@
 # GLUT-CPP
+```
+ Important : Make sure that you include<windows.h> before #include<glut.h> file
+```
 ## Code Block[http://www.codeblocks.org/downloads/binaries] Settings for glut
 ### 1. Download all Files in 'GLUT Files' and paste it in Respective Folder in CodeBlock\MinGW\
 ### 2. Add Following Link Libraries
